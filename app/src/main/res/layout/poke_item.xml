@@ -16,16 +16,17 @@
 
     <TextView
         android:id="@+id/formText"
-        android:text="form"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintTop_toBottomOf="@id/poke_image"
+        android:fontFamily="@font/aclonica"
+        android:text="form"
         app:layout_constraintStart_toStartOf="@id/poke_image"
 
-        />
+        app:layout_constraintTop_toBottomOf="@id/poke_image" />
 
     <TextView
         android:id="@+id/abilityText"
+        android:textAppearance="@style/TextAppearance.Quote"
         android:text="ability"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

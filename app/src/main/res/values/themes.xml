@@ -3,6 +3,24 @@
     <style name="Base.Theme.Recycle06" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/baa</item>
+        <item name="colorPrimaryVariant">@color/bee</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/buu</item>
+        <item name="colorSecondaryVariant">@color/boo</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+
+        <item name="android:fontFamily">@font/creepster</item>
+    </style>
+
+    <style name="TextAppearance.Quote" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#073b4c</item>
+        <item name="android:padding">8dp</item>
     </style>
 
     <style name="Theme.Recycle06" parent="Base.Theme.Recycle06" />
