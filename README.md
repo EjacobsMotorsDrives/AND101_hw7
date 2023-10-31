@@ -29,7 +29,7 @@ The following STRETCH features are implemented:
 - [ ] Use different drawables when in dark mode
 
 # MY GIF
-![](https://imgur.com/omfJd7L.gif)
+![](https://imgur.com/WiKLYrq.gif)
 
 GIF created with **screen to gif**
 
